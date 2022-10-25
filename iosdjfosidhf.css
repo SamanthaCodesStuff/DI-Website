@@ -1,0 +1,19 @@
+#title {
+    background-color: brown;
+    color: white;
+}
+
+.text {
+    font-size: xx-large;
+}
+
+#lunatic {
+  color: red;
+}
+
+#image_padding {
+
+  padding-left: 1em; 
+  padding-right: 1em;
+
+}
